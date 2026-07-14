@@ -1,1 +1,1 @@
-{"ひな":{"link":"https:\/\/github.com\/Minecraft-jp\/ryuusyutu\/raw\/refs\/heads\/main\/hina.js","title":"ひな"}}
+{"ひな":{"link":"https:\/\/github.com\/Minecraft-jp\/ryuusyutu\/raw\/refs\/heads\/main\/hina.js","title":"ひな"},"たまき":{"link":"https:\/\/github.com\/Minecraft-jp\/ryuusyutu\/raw\/refs\/heads\/main\/Tamaki.js","title":"たまき"}}
